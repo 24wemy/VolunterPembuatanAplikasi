@@ -343,6 +343,7 @@ Berikut daftar Volunter yang diterima:
 ### O
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Ogi Wemy Corinta, [LinkedIn](/https://www.linkedin.com/in/ogi-wemy-corinta-045767261/).
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
